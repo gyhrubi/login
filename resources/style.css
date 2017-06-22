@@ -8,4 +8,6 @@
     width: 600px;
     margin: auto;
     box-shadow: 5px 5px 5px rgba(62, 62, 62, 0.38);
+    min-height: 600px;
+    margin-top: 50px;
 }
